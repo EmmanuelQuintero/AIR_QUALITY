@@ -1,6 +1,6 @@
 # PYT-PROGR
-## “Concientización sobre la venta 
-de automóviles más contaminantes en Cali”
+
+## “Concientización sobre la venta de automóviles más contaminantes en Cali”
 
 # 
 Introducción: 
