@@ -30,9 +30,9 @@ Campo de aplicación de análisis de datos:
 
 Este proyecto está enfocado al campo prescriptivo de la ciencia de datos, esto debido a que según la recolección de datos y el análisis continuamente de los datos nos permitirá aprovecharlos para tomar las mejores decisiones y mejorar las predicciones para ofrecer nuevas alternativas durante la toma de decisiones.
 
-#Mariana Mera Gutierrez 2220990
-#Andrés Alberto Enríquez Domínguez
-#Emmanuel Quintero Palma  2222414
-#Juan Camilo Burbano Hernández
+#Mariana Mera Gutierrez 2220990\n
+#Andrés Alberto Enríquez Domínguez\n
+#Emmanuel Quintero Palma  2222414\n
+#Juan Camilo Burbano Hernández.
 
 
