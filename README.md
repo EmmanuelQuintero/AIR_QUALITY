@@ -30,11 +30,6 @@ Campo de aplicación de análisis de datos:
 
 Este proyecto está enfocado al campo prescriptivo de la ciencia de datos, esto debido a que según la recolección de datos y el análisis continuamente de los datos nos permitirá aprovecharlos para tomar las mejores decisiones y mejorar las predicciones para ofrecer nuevas alternativas durante la toma de decisiones.
 
-Excel's:
-[datosPM.xlsx](https://github.com/IDIA-Emmanuel/PYT-PROGR/files/9689535/datosPM.xlsx)
-#
-[INVENTARIO .xlsx](https://github.com/IDIA-Emmanuel/PYT-PROGR/files/9689536/INVENTARIO.xlsx)
-#
 ## SEGUNDO AVANCE 
 
 En el segundo avance del proyecto se definieron los objetivos especificos y objetivo general de nuestro proyecto,  se llevo acabo al toma de datos en 4 puntos de la Universidad, posteriormente, se hizo la conversión de ppm (Partes por millón) a µg/m3 (microgramos por metro cúbico). 
@@ -42,6 +37,14 @@ En el segundo avance del proyecto se definieron los objetivos especificos y obje
 Captura de datos  
 
 Por medio del sensor Mq-4 realizamos la captura de datos en diferentes puntos de la Universidad Autónoma de Occidente. El primer lugar fue en la portería principal de la U, donde se encuentra también el sensor de la profesora Ana Lasso.El segundo lugar fue en el puente de la vía Cali-Jamundí  y por último en el semáforo de esta misma vía. Además, realizamos esta captura de datos en un lugar donde no se encuentra un tránsito de vehículos, es en los sótanos de la universidad.Con los datos obtenidos con este sensor queremos realizar una comparación con los datos obtenidos del sensor que se encuentra en la Universidad Autónoma de Occidente. 
+
+#
+Excel's:
+#
+[datosPM.xlsx](https://github.com/IDIA-Emmanuel/PYT-PROGR/files/9689535/datosPM.xlsx)
+#
+[INVENTARIO .xlsx](https://github.com/IDIA-Emmanuel/PYT-PROGR/files/9689536/INVENTARIO.xlsx)
+#
 
 Los archivos que vamos a utilizar en este proyecto son del IDEAM, en donde nos muestran datos del índice de la calidad del aire. Además, en aqicn.org donde nos muestran en tiempo real la calidad del aire y en datos macros donde muestran la calidad del aire en todo el país.   
 
