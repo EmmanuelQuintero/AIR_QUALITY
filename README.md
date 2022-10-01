@@ -29,6 +29,13 @@ La importancia de trabajar este problema nace ya que según estudios realizados,
 Campo de aplicación de análisis de datos:
 
 Este proyecto está enfocado al campo prescriptivo de la ciencia de datos, esto debido a que según la recolección de datos y el análisis continuamente de los datos nos permitirá aprovecharlos para tomar las mejores decisiones y mejorar las predicciones para ofrecer nuevas alternativas durante la toma de decisiones.
+
+Excel's:
+[datosPM.xlsx](https://github.com/IDIA-Emmanuel/PYT-PROGR/files/9689535/datosPM.xlsx)
+[INVENTARIO .xlsx](https://github.com/IDIA-Emmanuel/PYT-PROGR/files/9689536/INVENTARIO.xlsx)
+
+### SEGUNDO AVANCE 
+
 #
 Mariana Mera Gutierrez 2220990
 #
