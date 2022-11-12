@@ -1,0 +1,10 @@
+from machine import ADC, Pin
+from utime import sleep
+
+entrada = ADC(0)
+factor_16 = 3.3/(65535)
+
+while True:
+    voltaje = entrada.read_u16() * factor_16
+    print(entrada.read_u16())
+    sleep(1)
