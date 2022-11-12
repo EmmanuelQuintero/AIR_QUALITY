@@ -38,19 +38,15 @@ Captura de datos
 
 Por medio del sensor Mq-4 realizamos la captura de datos en diferentes puntos de la Universidad Autónoma de Occidente. El primer lugar fue en la portería principal de la U, donde se encuentra también el sensor de la profesora Ana Lasso.El segundo lugar fue en el puente de la vía Cali-Jamundí  y por último en el semáforo de esta misma vía. Además, realizamos esta captura de datos en un lugar donde no se encuentra un tránsito de vehículos, es en los sótanos de la universidad.Con los datos obtenidos con este sensor queremos realizar una comparación con los datos obtenidos del sensor que se encuentra en la Universidad Autónoma de Occidente. 
 
-#
-Excel's:
-#
-[datosPM.xlsx](https://github.com/IDIA-Emmanuel/PYT-PROGR/files/9689535/datosPM.xlsx)
-#
-[INVENTARIO .xlsx](https://github.com/IDIA-Emmanuel/PYT-PROGR/files/9689536/INVENTARIO.xlsx)
-#
-
 Los archivos que vamos a utilizar en este proyecto son del IDEAM, en donde nos muestran datos del índice de la calidad del aire. Además, en aqicn.org donde nos muestran en tiempo real la calidad del aire y en datos macros donde muestran la calidad del aire en todo el país.   
 
 BuildWith y WhoIs
 
 Las paginas que fueron escogidas por el grupo para trabajar se les hizo un mapeo por medio de la pagina https://pro.builtwith.com en la cual podiamos ver como estaba "construida" la página o mejor dicho, que tecnologias usaba la pagina. Además se hizo el proceso de reconocimiento al dueño, constructor o host de la página.
+
+## TERCER AVANCE
+
+Durante el tercer y último del proyecto se continuó con la recolección y levantamiento de los datos, se establecieron y sacaron las conclusiones a partir de los resultados obtenidos. Se desarrollaron las analiticas de el proyecto usando Python y librerias como Pandas y MatploLib.
 
 #
 Mariana Mera Gutierrez 2220990
