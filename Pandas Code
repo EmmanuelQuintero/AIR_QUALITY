@@ -1,0 +1,36 @@
+import pandas as pd
+import numpy as np
+tabla = pd.read_excel ('Datos.xlsx') #leer el excel
+df= pd.DataFrame(tabla) #convertirlo en DataFrame
+oe= df.sum() #sume todos los dias
+oe2=(oe/300) #promedie el resultado de todos los dias
+df2= pd.DataFrame(oe2) #volvi data frame los promedios
+#df2
+print ("los promedios de cada dia son de:\n",round(oe2,0)) # son el promedio de cada dia
+semana1=round(df2.iloc[0:5].sum(),0)/5 #semana 1
+semana2=round(df2.iloc[5:10].sum(),0)/5 #semana 2
+semana3=round(df2.iloc[10:15].sum(),0)/5 #semana 3
+semana4=round(df2.iloc[15:20].sum(),0)/5 #semana 4
+semana5=round(df2.iloc[20:25].sum(),0)/5 #semana 5
+semana6=round(df2.iloc[25:30].sum(),0)/5 #semana 6
+print (f"El promedio de la semana 1 es de: {semana1} \n El promedio de la semana 2 es de: {semana2} \n El promedio de la semana 3 es de: {semana3} \n El promedio de la semana 4 es de: {semana4} \n El promedio de la semana 5 es de: {semana5} \n El primedio de la semana 6 es de: {semana6} ")
+#aqui voy a sacar los maximos de cada semana
+Maximo = df2.iloc[0:5]
+df3= pd.DataFrame(Maximo)
+AA=df3.max(axis = 0)
+Maximo2 = df2.iloc[5:10]
+df4= pd.DataFrame(Maximo2)
+AB=df4.max(axis = 0)
+Maximo3 = df2.iloc[10:15]
+df5= pd.DataFrame(Maximo3)
+AC=df5.max(axis = 0)
+Maximo4 = df2.iloc[15:20]
+df6= pd.DataFrame(Maximo4)
+AD=df6.max(axis = 0)
+Maximo5 = df2.iloc[20:25]
+df7= pd.DataFrame(Maximo5)
+AE=df7.max(axis = 0)
+Maximo6= df2.iloc[25:30]
+df8= pd.DataFrame(Maximo6)
+AF=df8.max(axis = 0)
+print(f"Los maximos de de cada semana fueron \n Semana 1: {AA} \n Semana 2 {AB} \n Semana 3 {AC} \n Semana 4 {AD} \n Semana 5 {AE} \n Semana 6 {AF}")
