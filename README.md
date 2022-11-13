@@ -46,7 +46,7 @@ Las paginas que fueron escogidas por el grupo para trabajar se les hizo un mapeo
 
 ## TERCER AVANCE
 
-Durante el tercer y último del proyecto se continuó con la recolección y levantamiento de los datos, se establecieron y sacaron las conclusiones a partir de los resultados obtenidos. Se desarrollaron las analiticas de el proyecto usando Python y librerias como Pandas y MatploLib.
+Durante el tercer y último del proyecto se continuó con la recolección y levantamiento de los datos durante 6 semanas ( no consecutivas ), se establecieron y sacaron las conclusiones a partir de los resultados obtenidos. Se desarrollaron las analiticas de el proyecto usando Python y Pandas. Por otro lado se realizaron gráficas sobre la concentracio del CO2 en partes por millón (ppm) usando MatploLib.
 
 #
 Mariana Mera Gutierrez 2220990
