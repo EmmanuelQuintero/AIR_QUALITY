@@ -2,7 +2,7 @@
 
 ## “Concientización sobre la calidad del aire en Cali”
 
-# 
+
 Introducción: 
 
 La Contaminación ambiental es un problema preocupante en todo el país. La contaminación se da por distintos factores que implican un deterioro de la capa de ozono y la calidad del aire, este problema, también genera enfermedades, de hecho, es una de las principales causas de morbilidad y mortalidad. Uno de los factores que más contribuyen a la contaminación atmosférica o mejor dicho (contaminación del aire) son los vehículos. En Cali para el año 2018 según un reporte periodístico de “El Tiempo” en conjunto con el DAGMA, mostró que en ese año Los automotores estarían generando el 90 % de los gases de efecto invernadero que se originan en Cali, lo que los convierte en la principal fuente de contaminación del aire en la ciudad.Cabe resaltar que, entre más viejo sea el vehículo, más contaminante es. Es por esto que, decidimos recoger la  información en la ciudad de Cali, sobre los autos que se tiene a la venta y que dejan un daño al medio ambiente, tanto en la venta de carros online como en la venta de carros pública, para eso nosotros escogimos la web de Mercadolibre debido a la alta cantidad de datos que podemos encontrar respecto a nuestro tema elegido.
