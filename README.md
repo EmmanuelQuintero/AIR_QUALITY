@@ -48,6 +48,13 @@ Las paginas que fueron escogidas por el grupo para trabajar se les hizo un mapeo
 
 Durante el tercer y último del proyecto se continuó con la recolección y levantamiento de los datos durante 6 semanas ( no consecutivas ), se establecieron y sacaron las conclusiones a partir de los resultados obtenidos. Se desarrollaron las analiticas de el proyecto usando Python y Pandas. Por otro lado se realizaron gráficas sobre la concentracio del CO2 en partes por millón (ppm) usando MatploLib.
 
+### Matriz:
+Mediante este proyecto buscamos obtener datos sobre los índices de la calidad del aire que se presentan en la vía panamericana y en algunos puntos de la universidad Autónoma de occidente.Durante seis semanas realizamos la recolección de datos con un sensor MQ-4,este es un sensor para detectar Gas Metano (Gas Natural) en el aire, el MQ-4 puede detectar concentraciones desde las 300 hasta las 10000 ppm. 
+
+Con estos datos logramos elaborar una analitica utilizando las librerias de pandas y numpy, que nos brindan el promedio de los índices de la calidad del aire en cada semana, los días con más presencia de estos agentes contaminantes, la diferencia de los índices en los horarios de la mañana y en la noche. Además realizamos web scraping en la página de aircasting y en el DAGMA que con esta información que obtuvimos realizamos una diferencia de los datos que nos brindan estos sitios web con los que obtuvimos del sensor.
+
+
+
 Notebook de graficos semanales: https://colab.research.google.com/drive/1iuioNJiRBfgBHpqsrsxSu3nyYP7fk90S?usp=sharing
 Notebook de promedio de graficas: https://colab.research.google.com/drive/1wUX-sP-GCFs2xmx22NJsrXD_yZwd9o2g?usp=sharing
 #
