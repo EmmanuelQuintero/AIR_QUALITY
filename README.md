@@ -56,6 +56,7 @@ Con estos datos logramos elaborar una analitica utilizando las librerias de pand
 
 
 Notebook de graficos semanales: https://colab.research.google.com/drive/1iuioNJiRBfgBHpqsrsxSu3nyYP7fk90S?usp=sharing
+#
 Notebook de promedio de graficas: https://colab.research.google.com/drive/1wUX-sP-GCFs2xmx22NJsrXD_yZwd9o2g?usp=sharing
 #
 Mariana Mera Gutierrez
